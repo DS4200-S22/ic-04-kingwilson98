@@ -1,7 +1,8 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see [GitHub Page Link](https://ds4200-s22.github.io/ic-04-kingwilson98/). 
+Link to GitHub Pages: 
 
 ## Purpose
 
